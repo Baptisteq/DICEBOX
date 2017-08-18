@@ -32,7 +32,7 @@ le logiciel est téléchargeable sur ce lien: https://puredata.info/downloads/pu
   8 - Record armed. Appuyer sur le toggle pour que le prochain play active aussi l'enregistrement. L'enregistrement coupe automatiquement une seconde après qu'il n'y ai plus de signal... normalement :)
   
   # à propos du dossier RECORDED:
-  l'application génère à chaque enregistrement 9 fichiers (ISO1, ISO2, ... ,ISO8, MIX) pour rendre plus clair le dossier il est utile de classer les fichiers par date de création.
+  l'application génère à chaque enregistrement 9 fichiers: 8 stéréos Isolés et un stéreo Mix (ISO1, ISO2, ... ,ISO8, MIX) pour rendre plus clair le dossier il est utile de classer les fichiers par date de création.
   
   dans le dossier SAMPLE il y a déjà plusieurs banque. revenir à l'étape 1, et taper au choix EAU,...
   
