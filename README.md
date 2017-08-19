@@ -15,7 +15,7 @@ le logiciel est téléchargeable sur ce lien: https://puredata.info/downloads/pu
 4. afficher le log (deux stacks overflow se battent en duel il faut que je trouve la source WIP) activer le DSP (si c'est la première fois que vous lancez pure data il va falloir surement configurer le périhérique de lecture.)
 5. les insructions sont indiqués sur le patch:
   
-  1 - Name of the file to load: l'application lit des fichiers audios. Il cherche un nom dans le dossier SAMPLE. pour cela il faut placer un maximum de 32 fichiers mono 16bits PCM 48k ou 44.1k. et nommer ces fichiers selon la nomenclature "NOM_DU_FICHIER_"n, avec n la valeur de 1 à 32 (pas de zéro). le nom du fichier doit être identique et ne doit pas comporter d'espace. 
+  1 - Name of the file to load: l'application lit des fichiers audios. Il cherche un nom dans le dossier SAMPLE. pour cela il faut placer un maximum de 32 fichiers mono 16bits PCM 48k ou 44.1k. et nommer ces fichiers selon la nomenclature "NOM_DU_FICHIER_"n, avec n la valeur de 1 à 32 (pas de zéro). le nom du fichier doit être identique et ne doit pas comporter d'espace. Il faut passer en mode édition pour pouvoir éditer le contenu du message pour cela le raccourci est Ctrl+E.
  
  2 - Generic name for the recorded audio. L'application enregistre puis genère automatiquement un fichier avec une certaine nomenclature "NOM_DU_FICHIER_ENREGISTRE"_ISO1_T1.wav pour l'enregistrement d'une voie isolée (1ère prise). ou "NOM_DU_FICHIER_ENREGISTRE"_MIX_T1.wav pour l'enregistrement du mix
   
