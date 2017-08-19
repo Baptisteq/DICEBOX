@@ -19,7 +19,7 @@ le logiciel est téléchargeable sur ce lien: https://puredata.info/downloads/pu
  
  2 - Generic name for the recorded audio. L'application enregistre puis genère automatiquement un fichier avec une certaine nomenclature "NOM_DU_FICHIER_ENREGISTRE"_ISO1_T1.wav pour l'enregistrement d'une voie isolée (1ère prise). ou "NOM_DU_FICHIER_ENREGISTRE"_MIX_T1.wav pour l'enregistrement du mix
   
-  3 - Absolute Path: Pour que cela soit propre il faut générer tous les fichiers d'enregistrement dans le dossier RECORDED. pour cela il faut copier l'adresse absolu du dossier RECORDED (sous win7 cela prend la forme c:/users/vous/DICEBOX.1.0/RECORDED/) c'est important que le dossier recorded ne se trouve pas dans l'adresse d'un dossier comportant des espaces
+  3 - Absolute Path: pour créer les fichiers directement dans le dossier RECORDED, il faut copier l'adresse absolu du dossier RECORDED (sous win7 cela prend la forme c:/users/.../.../DICEBOX.1.0/RECORDED/) c'est important que le dossier recorded ne se trouve pas dans le chemin d'accès d'un dossier comportant des espaces.
   
   4 - Specify sample Rate: spécifier le taux d'echantillonnage par défaut 48kHz (dans le futur 88.2k 96k...)
   
@@ -34,5 +34,12 @@ le logiciel est téléchargeable sur ce lien: https://puredata.info/downloads/pu
   # à propos du dossier RECORDED:
   l'application génère à chaque enregistrement 9 fichiers: 8 stéréos Isolés et un stéreo Mix (ISO1, ISO2, ... ,ISO8, MIX) pour rendre plus clair le dossier il est utile de classer les fichiers par date de création.
   
-  dans le dossier SAMPLE il y a déjà plusieurs banque. revenir à l'étape 1, et taper au choix EAU,...
-  
+  dans le dossier SAMPLE il y a déjà plusieurs banque. revenir à l'étape 1, et taper au choix EAU,EOLIENNE ou TOLE (les majusucles sont pas nécessaires j'aime quand c'est gros)  
+
+# CREDITS
+
+RJ_lib https://github.com/rjdj/rjlib (abstractions e_pan et s_playtable)
+Johannes Kreidler Johannes Kreidler (abstraction: granular)
+http://www.pdpatchrepo.info/hurleur/randomize-urn-vanilla.pd (urn-vanilla)
+Audio: les fichiers EOLIENNE ont été enregistré et publié sur la sonothèque de sounddesigners.org par FRIZOO (https://www.sounddesigners.org/sonotheque/download/22-vent/7617-eoliennes-st.html)
+
