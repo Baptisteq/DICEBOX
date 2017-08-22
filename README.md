@@ -36,7 +36,7 @@ le logiciel est téléchargeable sur ce lien: https://puredata.info/downloads/pu
   
   dans le dossier SAMPLE il y a déjà plusieurs banque. revenir à l'étape 1, et taper au choix EAU,EOLIENNE ou TOLE (les majusucles sont pas nécessaires j'aime quand c'est gros)  
 # EXEMPLES
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/347144081%3Fsecret_token%3Ds-Y9Suy&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+https://soundcloud.com/quemenerb/sets/dicebox-v11-selection/s-Y9Suy
 # CREDITS
 
 RJ_lib https://github.com/rjdj/rjlib (abstractions e_pan et s_playtable)
