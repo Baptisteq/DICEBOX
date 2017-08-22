@@ -35,7 +35,8 @@ le logiciel est téléchargeable sur ce lien: https://puredata.info/downloads/pu
   l'application génère à chaque enregistrement 9 fichiers: 8 stéréos Isolés et un stéreo Mix (ISO1, ISO2, ... ,ISO8, MIX) pour rendre plus clair le dossier il est utile de classer les fichiers par date de création.
   
   dans le dossier SAMPLE il y a déjà plusieurs banque. revenir à l'étape 1, et taper au choix EAU,EOLIENNE ou TOLE (les majusucles sont pas nécessaires j'aime quand c'est gros)  
-
+# EXEMPLES
+https://soundcloud.com/quemenerb/sets/dicebox-v11-selection
 # CREDITS
 
 RJ_lib https://github.com/rjdj/rjlib (abstractions e_pan et s_playtable)
