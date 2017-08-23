@@ -1,5 +1,5 @@
-# DICEBOX
-pure data repo. Contient les différentes versions du patch DICEBOX (main+abstracation+sample) 
+# DICEBOX v.1.1
+pure data repo. Contient les différentes versions du patch DICEBOX (main+abstractions+sample) 
 
 # INTRO 
 le patch Dicebox permet de lire 8 fichiers audio simultanément en y appliquant différent traitement simple (niveau, panoramique, EQ...) chaque traitement et leurs paramètres peuvent être configurés aléatoirement. Il est possible d'enregistrer en sortie le résultat du mix des 8 voies mais aussi d'enregistrer post-traitement chaque voie isolée. 
